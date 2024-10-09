@@ -1,0 +1,5 @@
+# Mastering Multithreading Programming with Go (Golang)
+
+Explore Multithreading, Concurrency, and Parallel Programming in Google's Go language through engaging and practical examples. This course offers a deep dive into the core concepts and techniques that enable efficient and effective handling of multiple tasks simultaneously in Go. Additionally, experience a scenario-based learning module set in a high-stakes environment: a tense meeting on the 12th floor of an international investment bank where developers are grappling with the fallout from a critical system-wide outage caused by a core application failure. Learn how to design robust systems to prevent such disasters and ensure seamless operational continuity 
+
+[Detail](https://eduitfree.com/courses/mastering-multithreading-programming-with-go-golang)
